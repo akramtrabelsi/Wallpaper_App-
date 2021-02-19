@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51291027972",
+    "firebase_url": "https://tunisia-wallpaper.firebaseio.com",
+    "project_id": "tunisia-wallpaper",
+    "storage_bucket": "tunisia-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51291027972:android:a24a928e43ae029c205351",
+        "android_client_info": {
+          "package_name": "com.example.flutter_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51291027972-aldb8sqjrad6lrnj5r93lqrcu1u1p300.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyfe2zRPII0x6cJH3kdVPgNiQRr6IIhEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51291027972-aldb8sqjrad6lrnj5r93lqrcu1u1p300.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
